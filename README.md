@@ -1,2 +1,3 @@
 # GanaPawk.io
-CC
+
+GanaPawk.io is a web application project by CC.
